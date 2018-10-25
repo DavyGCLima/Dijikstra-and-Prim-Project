@@ -1,0 +1,122 @@
+Menor caminho entre as cidades Niqerajaxao e Qeozajepoio : 959.900085
+Niqerajaxao;Girunevosam;12.480000
+Girunevosam;Ozesotujero;10.390000
+Ozesotujero;Tibuhewiyic;13.260000
+Tibuhewiyic;Fexairevuco;13.490000
+Fexairevuco;Moecahiegup;12.400000
+Moecahiegup;Ziceejevivu;11.960000
+Ziceejevivu;Piqahumoaya;12.140000
+Piqahumoaya;Gugupuyanue;17.260000
+Gugupuyanue;Qecozeeeuhi;22.770000
+Qecozeeeuhi;Yapueyifibi;16.670000
+Yapueyifibi;Baaaovuzolu;12.880000
+Baaaovuzolu;Hikiauguqic;11.350000
+Hikiauguqic;Digelogause;13.190000
+Digelogause;Pureowodeye;14.360000
+Pureowodeye;Kacaweriesu;10.120000
+Kacaweriesu;Bunogoookot;13.540000
+Bunogoookot;Bekanedoxif;13.680000
+Bekanedoxif;Vicepoajefi;18.400000
+Vicepoajefi;Wijelafaaam;18.309999
+Wijelafaaam;Imazabuwabo;15.790000
+Imazabuwabo;Renikocufot;13.140000
+Renikocufot;Qixiepisuda;16.370001
+Qixiepisuda;Kimopewaqog;14.540000
+Kimopewaqog;Yayucepavak;10.330000
+Yayucepavak;Iutiiojoaye;11.110000
+Iutiiojoaye;Oveowexohos;20.690001
+Oveowexohos;Bucokofikoa;13.200000
+Bucokofikoa;Fozoimekese;38.150002
+Fozoimekese;Danoyuyafax;15.480000
+Danoyuyafax;Laexezuzuso;12.240000
+Laexezuzuso;Ijuvuwixure;18.830000
+Ijuvuwixure;Ukopasekaju;21.860001
+Ukopasekaju;Edipuzinova;61.119999
+Edipuzinova;Qeqaqumiuja;29.940001
+Qeqaqumiuja;Zijelihobeq;12.400000
+Zijelihobeq;Useojeramiz;15.200000
+Useojeramiz;Juxahiohoku;16.490000
+Juxahiohoku;Orotahisipo;39.709999
+Orotahisipo;Unasasasute;24.600000
+Unasasasute;Gegekeufexa;57.029999
+Gegekeufexa;Jaruipoamee;20.639999
+Jaruipoamee;Gukudazieno;27.590000
+Gukudazieno;Dezoobacufi;41.400002
+Dezoobacufi;Neposaacoaz;23.500000
+Neposaacoaz;Tetedaqaoem;61.950001
+Tetedaqaoem;Qeozajepoio;37.950001
+Tempo: 0.000000
+Menor caminho entre as cidades Kacaweriesu e Renikocufot : 64.480003
+Kacaweriesu;Pureowodeye;10.120000
+Pureowodeye;Yayucepavak;13.120000
+Yayucepavak;Kimopewaqog;10.330000
+Kimopewaqog;Qixiepisuda;14.540000
+Qixiepisuda;Renikocufot;16.370001
+Tempo: 0.000000
+Menor caminho entre as cidades Neposaacoaz e Wokoufuuxaz : 907.120056
+Neposaacoaz;Imazabuwabo;18.740000
+Imazabuwabo;Renikocufot;13.140000
+Renikocufot;Qixiepisuda;16.370001
+Qixiepisuda;Kimopewaqog;14.540000
+Kimopewaqog;Yayucepavak;10.330000
+Yayucepavak;Iutiiojoaye;11.110000
+Iutiiojoaye;Yapueyifibi;16.750000
+Yapueyifibi;Baaaovuzolu;12.880000
+Baaaovuzolu;Hikiauguqic;11.350000
+Hikiauguqic;Digelogause;13.190000
+Digelogause;Pureowodeye;14.360000
+Pureowodeye;Kacaweriesu;10.120000
+Kacaweriesu;Bunogoookot;13.540000
+Bunogoookot;Bekanedoxif;13.680000
+Bekanedoxif;Girunevosam;11.140000
+Girunevosam;Ozesotujero;10.390000
+Ozesotujero;Tibuhewiyic;13.260000
+Tibuhewiyic;Fexairevuco;13.490000
+Fexairevuco;Moecahiegup;12.400000
+Moecahiegup;Ziceejevivu;11.960000
+Ziceejevivu;Piqahumoaya;12.140000
+Piqahumoaya;Gugupuyanue;17.260000
+Gugupuyanue;Qecozeeeuhi;22.770000
+Qecozeeeuhi;Uhuqohobafo;27.590000
+Uhuqohobafo;Niqerajaxao;16.590000
+Niqerajaxao;Vicepoajefi;25.730000
+Vicepoajefi;Wijelafaaam;18.309999
+Wijelafaaam;Qeqaqumiuja;22.450001
+Qeqaqumiuja;Zijelihobeq;12.400000
+Zijelihobeq;Useojeramiz;15.200000
+Useojeramiz;Juxahiohoku;16.490000
+Juxahiohoku;Danoyuyafax;29.080000
+Danoyuyafax;Laexezuzuso;12.240000
+Laexezuzuso;Ijuvuwixure;18.830000
+Ijuvuwixure;Oveowexohos;18.690001
+Oveowexohos;Bucokofikoa;13.200000
+Bucokofikoa;Fozoimekese;38.150002
+Fozoimekese;Orotahisipo;32.250000
+Orotahisipo;Unasasasute;24.600000
+Unasasasute;Gegekeufexa;57.029999
+Gegekeufexa;Jaruipoamee;20.639999
+Jaruipoamee;Gukudazieno;27.590000
+Gukudazieno;Dezoobacufi;41.400002
+Dezoobacufi;Edipuzinova;47.810001
+Edipuzinova;Wokoufuuxaz;55.939999
+Tempo: 0.000000
+Menor caminho entre as cidades Baaaovuzolu e Moecahiegup : 136.919998
+Baaaovuzolu;Hikiauguqic;11.350000
+Hikiauguqic;Digelogause;13.190000
+Digelogause;Pureowodeye;14.360000
+Pureowodeye;Kacaweriesu;10.120000
+Kacaweriesu;Bunogoookot;13.540000
+Bunogoookot;Bekanedoxif;13.680000
+Bekanedoxif;Girunevosam;11.140000
+Girunevosam;Ozesotujero;10.390000
+Ozesotujero;Tibuhewiyic;13.260000
+Tibuhewiyic;Fexairevuco;13.490000
+Fexairevuco;Moecahiegup;12.400000
+Tempo: 0.000000
+Menor caminho entre as cidades Zijelihobeq e Kacaweriesu : 41.570000
+Zijelihobeq;Qeqaqumiuja;12.400000
+Qeqaqumiuja;Bunogoookot;15.630000
+Bunogoookot;Kacaweriesu;13.540000
+Tempo: 0.000000
+Menor caminho entre as cidades Piqahumoaya e Piqahumoaya : 0.000000
+Tempo: 0.000000

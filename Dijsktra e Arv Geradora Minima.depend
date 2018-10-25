@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1513102523 source:e:\google drive\ifes\tpa\trabalho grafos\dijsktra e arv geradora minima\grafo.c
+	"grafo.h"
+
+1513102155 e:\google drive\ifes\tpa\trabalho grafos\dijsktra e arv geradora minima\grafo.h
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1513197556 source:e:\google drive\ifes\tpa\trabalho grafos\dijsktra e arv geradora minima\main.c
+	"grafo.h"
+
